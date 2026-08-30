@@ -6,7 +6,7 @@
 // ═══════════════════════════════════════════════════════
 
 // ── Cloudflare Worker URL (nhận kết quả → Google Sheet) ─
-window.WORKER_URL = "https://dqt-chdnm.bmchdnm.workers.dev";  // ← cập nhật nếu đổi Worker
+window.WORKER_URL = "https://dqt-chdnm.bm-cdnm.workers.dev";  // ← cập nhật nếu đổi Worker
 
 // ── % số câu phải LÀM (không cần đúng) để được nộp bài ─
 //    Test: 5   |   Chính thức: 70 hoặc 80
